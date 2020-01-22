@@ -5,3 +5,6 @@ A repository for code implementation of learning the graph convolutional neural 
 
 - [Part 1: A High-Level Introduction to Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780) -> `Simple-Graph-Operation.ipynb`
 
+## 2. Semi-Supervised Classification with Graph Convolutional Networks by Thomas N. Kipf, Max Welling
+
+- [Appendix A.1: Node Embeddings with Random Weights](https://arxiv.org/abs/1609.02907) -> `Node-Embeddings-with-Random-Weights.ipynb`
